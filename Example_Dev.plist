@@ -16,6 +16,8 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+                    			<false/>
 					<key>url</key>
 					<string>itunes显示图片地址</string>
 				</dict>
@@ -23,6 +25,8 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
+					<key>needs-shine</key>
+                    			<false/>
 					<string>安装应用显示的图片</string>
 				</dict>
 			</array>
